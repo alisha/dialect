@@ -1,0 +1,86 @@
+{
+  "countries": [
+    {
+      "name": "japan",
+      "sets": [
+        {
+          "name": "Table Manners",
+          "review": [
+            "If you\"re with a dinner party and receive drinks, you should wait to begin drinking. After everyone is served, someone will take the lead to make a speech, and then raise his/her glass and yell, \"Kampai!\", meaning cheers.",
+            "You will receive a small wet cloth at most Japanese restaurants. Use this to wash your hands before eating. Carefully fold and set it aside on the table. Do not use it as a napkin, or to touch a part of your face.",
+            "Slurping noodles or making loud noises while eating is OK! In fact, slurping hot food like ramen is polite, to show you are enjoying it.",
+            "Before eating anything, it’s polite to say \"itadakimasu\" meaning \"I will receive\". You should be saying this regardless if you are going to eat a seven-course meal or a sample at a supermarket."
+          ],
+          "quiz": [
+            {
+              "prompt": "What should you do when given a wet towel at a restaurant?",
+              "answers": [
+                {
+                  "text": "Use it to clean your hands and face",
+                  "isCorrect": "false"
+                },
+                {
+                  "text": "Wash only your hands",
+                  "isCorrect": "true"
+                },
+                {
+                  "text": "Place it on your lap as you would with a napkin",
+                  "isCorrect": "false"
+                }
+              ]
+            },
+            {
+              "prompt": "How much should you tip in Japan?",
+              "answers": [
+                {
+                  "text": "Always tip 15%",
+                  "isCorrect": "false"
+                },
+                {
+                  "text": "Tip only if you feel like the service was good",
+                  "isCorrect": "false"
+                },
+                {
+                  "text": "Never tip in Japan",
+                  "isCorrect": "true"
+                }
+              ]
+            }, {
+              "prompt": "What is proper etiquette for eating noodles?",
+              "answers": [
+                {
+                  "text": "Eat slowly and refrain from making slurping noises.",
+                  "isCorrect": "false"
+                },
+                {
+                  "text": "Slurping loudly is OK to do and actually preferred.",
+                  "isCorrect": "true"
+                },
+                {
+                  "text": "Twirl your noodles with your fork before eating.",
+                  "isCorrect": "false"
+                }
+              ]
+            }, {
+              "prompt": "What should you say before eating?",
+              "answers": [
+                {
+                  "text": "Kampai",
+                  "isCorrect": "false"
+                },
+                {
+                  "text": "Itadakimasu",
+                  "isCorrect": "true"
+                },
+                {
+                  "text": "Oishii",
+                  "isCorrect": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
